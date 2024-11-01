@@ -10,7 +10,7 @@ var numIdenticalPairs = function(nums) {
                 count++  
         }   
     }
-    return count;
+    return count; 
 
     
 };
